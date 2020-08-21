@@ -7,5 +7,4 @@ To summarize, our major contributions are following as:
 3. We build a sensor system consists of four L2LD and experimental in the collected datasets. Furthermore, we publish the dataset to the research social to do their experiments.
 4. The algorithm can calibrate and self-refine online automatically. The experimental results verify the feasibility of this methodology, which can be widely used in the real world applications for AGV and moreover.
 
-This is link to download datashet with gound-truth calibration, it should be adjust
-https://vinhunieduvn0-my.sharepoint.com/:f:/g/personal/namdv_vinhuni_edu_vn/Em6PgV4e-UZFg0jfbmnG23UBZTpWdOIKFgEma0ok4aAz4Q?e=j09vBD
+This is link to download datashet with gound-truth calibration, it should be adjust <added later>
