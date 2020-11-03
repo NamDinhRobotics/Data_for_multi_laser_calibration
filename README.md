@@ -11,4 +11,4 @@ This is link to download datashet with gound-truth calibration, it should be adj
   
   
   Video:
-  [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/j7XaZ1b32Zs)
+  [![Watch the video](https://imgur.com/a/uWhO9LO)](https://youtu.be/j7XaZ1b32Zs)
