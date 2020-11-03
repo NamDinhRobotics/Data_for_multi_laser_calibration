@@ -8,3 +8,7 @@ To summarize, our major contributions are following as:
 4. The algorithm can calibrate and self-refine online automatically. The experimental results verify the feasibility of this methodology, which can be widely used in the real world applications for AGV and moreover.
 
 This is link to download datashet with gound-truth calibration, it should be adjust <added later>
+  
+  
+  Video:
+  [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/j7XaZ1b32Zs)
